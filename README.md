@@ -23,4 +23,4 @@
 </br>
 
 
-um  jovem apaixonado por tecnologias  😀💓💓💓
+UMJOVEM APAIXONADO POR TECNOLOGIAS 😀💓💓💓
