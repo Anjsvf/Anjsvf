@@ -27,8 +27,7 @@ I am a passionate tech enthusiast who loves developing web applications using mo
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-### Hosting & Deployment
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
