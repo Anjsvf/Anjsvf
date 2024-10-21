@@ -8,7 +8,7 @@ I am a passionate tech enthusiast who loves developing web applications using mo
 
 ## 🚀 Technologies & Tools
 
-## 🚀 Technologies & Tools
+
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
