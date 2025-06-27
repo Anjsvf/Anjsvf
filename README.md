@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Antônio Santos! Welcome to My GitHub Profile!
+# hi
 
 
-## 🧑‍💻 About Me
+##  About Me
 I am a passionate tech enthusiast dedicated to crafting web applications with modern technologies. My current focus is mastering full-stack development with an emphasis on **JavaScript**, **TypeScript**, and frameworks like **React**, **Next.js**, and **Node.js**. I'm always exploring new tools and best practices to deliver high-quality, scalable applications. 🚀
 
 ---
